@@ -1,4 +1,3 @@
-
 <h1 align="center">🌦️ WeatherSphere</h1>
 
 <p align="center">
